@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xiaohongshu Copywriter"
+  short_description: "Draft, rewrite, and diagnose Xiaohongshu posts."
+  default_prompt: "Use $xiaohongshu-copywriter to draft or improve a Xiaohongshu post from my product notes."
