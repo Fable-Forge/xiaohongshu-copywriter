@@ -6,12 +6,17 @@
 
 **Create, rewrite, diagnose, and package natural Chinese content for Xiaohongshu.**
 
-> 创作、改写、诊断并打包自然可信的小红书中文内容。
+<p>创作、改写、诊断并打包自然可信的小红书中文内容。</p>
 
 <p>
   <a href="https://github.com/Fable-Forge/xiaohongshu-copywriter/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-0969da"></a>
   <img alt="Maturity: beta" src="https://img.shields.io/badge/maturity-beta-8250df">
   <img alt="Agents: Codex and Claude Code" src="https://img.shields.io/badge/agents-Codex_%C2%B7_Claude_Code-1f883d">
+  <a href="https://github.com/Fable-Forge/xiaohongshu-copywriter/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Fable-Forge/xiaohongshu-copywriter?style=social"></a>
+</p>
+
+<p>
+  <strong>If this skill helps you ship better work, a ⭐ Star is free and helps others find it.</strong>
 </p>
 
 </div>
